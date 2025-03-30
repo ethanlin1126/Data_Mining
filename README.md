@@ -1,2 +1,2 @@
 # Data_Mining
-[課堂作業1](https://github.com/ethanlin1126/Data_Mining/blob/main/%E3%80%8CExample1_DataLoading_ipynb%E3%80%8D%E7%9A%84%E5%89%AF%E6%9C%AC.ipynb)
+[課堂作業1](https://github.com/ethanlin1126/Data_Mining/blob/main/113_2%E8%B3%87%E6%96%99%E6%8E%A2%E5%8B%98%E4%BD%9C%E6%A5%AD%E4%B8%80.ipynb)
